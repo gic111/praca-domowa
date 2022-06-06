@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'SpringCMS'" />
-    <option name="defaultScopeName" value="Project 'SpringCMS'" />
-    <option name="SEARCH_SCOPE" value="Project 'SpringCMS'" />
+    <option name="customScope" value="Project 'neww'" />
+    <option name="defaultScopeName" value="Project 'neww'" />
+    <option name="SEARCH_SCOPE" value="Project 'neww'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
